@@ -1,17 +1,22 @@
 ## Hi there 👋
-I am Naina
+# Hi 👋 I'm Dharmakkollanaina
 
-<!--
-**naina824/naina824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Student  
+💻 Learning Web Development and AI/ML  
+🌱 Currently learning Python and Machine Learning  
+🚀 Interested in building useful projects  
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- Python
+- Java
+- Machine Learning (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Text Sentiment Analysis
+- Art and Craft Frontend Website
+  
+
+## Goals
+To become a good AI/ML developer and build impactful projects.
