@@ -11,11 +11,7 @@
 - CSS
 - Python
 - Java
-- Machine Learning (Learning)
-
-## Projects
-- Text Sentiment Analysis
-- Art and Craft Frontend Website
+- Machine Learning 
   
 
 ## Goals
